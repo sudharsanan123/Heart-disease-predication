@@ -1,0 +1,47 @@
+
+1. Importing the packages
+2. Exploring the dataset 
+	- Heart Disease 
+3. Data processing
+	- Pandas Dataframe
+	- Cleaning the datset
+4. Visualization using seaborn & matplotlib
+5. Feature Engineering 
+	- RFECV 
+	- PCA for reduction of Features
+6. Appending the Feature column to X and Target to Y
+7. Splitting the data to train and test for Deep LEarning and Taking X and Y for Machine Learning
+8. Building the model with Hyperparameter and k fold Cross validation
+	
+	- Logistic Regression
+	- Decision Tree
+	- Random Forest
+	- SVM
+	- KNN
+	- MLP
+	- Naive Bayes
+	- XGBoost
+	- Gradient Boositng
+	
+ 
+9. Training the model with hyperparameter and K fold cross validation
+10. Comparing the result
+11. Building the model with selected features with the highest accuracy score
+
+
+Flask Framework
+----------------
+
+ 
+12. Flask Framework with Sqlite for signup and signin
+13. Importing the packages
+14. User gives input as Feature Values 
+15. The given input is preprocessed for prediction
+16. Trained model is used for prediction
+17. Final outcome is displayed through frontend
+
+
+
+
+
+As an extension we can build front end using flask framework for user testing and with user authenication.
